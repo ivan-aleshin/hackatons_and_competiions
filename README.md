@@ -10,7 +10,7 @@ Reopsitory for Hackatons and Kaggle competitions projects
 Build a model to predict the price of books.
 
 ### Description
-This approach got the **22nd** place out of more than 5000 participants with final score about **0.789** on quite simple ML Linear model. The key point is feature engineering and feature processing.  
+This approach got the **22nd** place out of more than **5000** participants with final score about **0.789** on quite simple ML Linear model. The key point is feature engineering and feature processing.  
 
 **Tools & Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
